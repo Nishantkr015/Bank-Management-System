@@ -23,11 +23,7 @@ MySQL Server
 MySQL Connector/J library
 IDE (Integrated Development Environment) such as IntelliJ IDEA or Eclipse (optional)
 Setup
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/bank-management-system.git
 Create MySQL Database:
 
 Install MySQL Server if not already installed.
